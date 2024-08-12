@@ -16,8 +16,8 @@ from aiogram.types import ReplyKeyboardRemove
 
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
-ADMIN_ID = 7021260028
-TOKEN = "7464216992:AAFm7-aKgBZJbqLlDrIFdbs5GFZFbHlLg9g"
+ADMIN_ID = 
+TOKEN = ""
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
